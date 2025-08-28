@@ -7,14 +7,14 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kloudnone)
 
 
-![](https://komarev.com/ghpvc/?username=easghost)
+![](https://komarev.com/ghpvc/?username=kloudnone)
 [![wakatime](https://wakatime.com/badge/user/ad70fdc4-0867-45be-8b1f-e921acf3fdcb.svg)](https://wakatime.com/@ad70fdc4-0867-45be-8b1f-e921acf3fdcb)
 
 <div align="center" style="width:652px;">
     <picture style="width:652px;">
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/easghost/easghost/snk/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/easghost/easghost/snk/github-contribution-grid-snake.svg">
-        <img src="https://raw.githubusercontent.com/easghost/easghost/snk/github-contribution-grid-snake.svg" width="652px" alt="Snake">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kloudnone/kloudnone/snk/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kloudnone/kloudnone/snk/github-contribution-grid-snake.svg">
+        <img src="https://raw.githubusercontent.com/kloudnone/kloudnone/snk/github-contribution-grid-snake.svg" width="652px" alt="Snake">
     </picture>
     <hr width="652px" />
 </div>
@@ -37,5 +37,5 @@
 
 <div align="center" style="width:652px;">
     <hr width="652px" />
-    <img src="https://raw.githubusercontent.com/easghost/easghost/metrics/github-metrics.svg" width="652px" alt="Metrics" />
+    <img src="https://raw.githubusercontent.com/kloudnone/kloudnone/metrics/github-metrics.svg" width="652px" alt="Metrics" />
 </div>
